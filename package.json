@@ -1,5 +1,5 @@
 {
-    "name": "grades",
+    "name": "mana-nodejs",
     "version": "0.0.0",
     "description": "",
     "main": "app.js",
@@ -9,18 +9,19 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Qayou/grades.git"
+        "url": "git+https://github.com/Qayou/mana-nodejs.git"
     },
     "author": "Pierre Charpentier",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/Qayou/grades/issues"
+        "url": "https://github.com/Qayou/mana-nodejs/issues"
     },
-    "homepage": "https://github.com/Qayou/grades#readme",
+    "homepage": "https://github.com/Qayou/mana-nodejs#readme",
     "dependencies": {
         "body-parser": "^1.17.2",
         "express": "^4.15.3",
         "ical": "^0.5.0",
+        "moment": "^2.18.1",
         "mongoose": "^4.10.4"
     },
     "devDependencies": {
